@@ -12,3 +12,9 @@ function myfunction() {
 // some other code
 myfunction();
 //"alert box!"
+
+//alert
+function myfunction(a, b) {
+  return console.log(a * b);
+}
+myfunction(5, 6);
